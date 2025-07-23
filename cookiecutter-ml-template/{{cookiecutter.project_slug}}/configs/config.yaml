@@ -1,0 +1,7 @@
+defaults:
+  - model: rf
+  - data: iris
+  - train: default
+
+# Le fichier de config auquel il se base
+# configs/config.yaml

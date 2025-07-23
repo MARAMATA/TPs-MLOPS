@@ -1,0 +1,5 @@
+[project]
+name = "project_testing"
+version = "0.1.0"
+authors = [{ name = "Maramata" }]
+description = "Projet Cookiecutter pour tester une structure ML"

@@ -1,0 +1,4 @@
+# Fichier des ratio de train
+# configs/train/default.yaml
+split_ratio: 0.8
+random_seed: 42

@@ -1,0 +1,5 @@
+[project]
+name = "{{ cookiecutter.project_slug }}"
+version = "0.1.0"
+authors = [{ name = "{{ cookiecutter.author_name }}" }]
+description = "Projet Cookiecutter pour tester une structure ML"
